@@ -10,7 +10,7 @@ const NavBar = () => {
   return (
    <>
       <Logo>
-        <Link to="/"> Closet </Link>
+        <Link to="/"> Closet App</Link>
       </Logo>
       <br/>
       <Wrapper>
