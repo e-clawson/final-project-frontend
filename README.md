@@ -1,3 +1,9 @@
+# About 
+
+## Acknowledgements 
+
+Styling in this project courtesy of Styled Components Dependency (https://styled-components.com/) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
